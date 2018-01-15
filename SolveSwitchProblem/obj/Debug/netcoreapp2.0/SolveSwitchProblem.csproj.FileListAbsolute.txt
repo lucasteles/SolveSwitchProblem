@@ -1,0 +1,11 @@
+c:\d\SolveSwitchProblem\SolveSwitchProblem\bin\Debug\netcoreapp2.0\SolveSwitchProblem.deps.json
+c:\d\SolveSwitchProblem\SolveSwitchProblem\bin\Debug\netcoreapp2.0\SolveSwitchProblem.runtimeconfig.json
+c:\d\SolveSwitchProblem\SolveSwitchProblem\bin\Debug\netcoreapp2.0\SolveSwitchProblem.runtimeconfig.dev.json
+c:\d\SolveSwitchProblem\SolveSwitchProblem\bin\Debug\netcoreapp2.0\SolveSwitchProblem.dll
+c:\d\SolveSwitchProblem\SolveSwitchProblem\bin\Debug\netcoreapp2.0\SolveSwitchProblem.pdb
+c:\d\SolveSwitchProblem\SolveSwitchProblem\obj\Debug\netcoreapp2.0\SolveSwitchProblem.csprojResolveAssemblyReference.cache
+c:\d\SolveSwitchProblem\SolveSwitchProblem\obj\Debug\netcoreapp2.0\SolveSwitchProblem.csproj.CoreCompileInputs.cache
+c:\d\SolveSwitchProblem\SolveSwitchProblem\obj\Debug\netcoreapp2.0\SolveSwitchProblem.AssemblyInfoInputs.cache
+c:\d\SolveSwitchProblem\SolveSwitchProblem\obj\Debug\netcoreapp2.0\SolveSwitchProblem.AssemblyInfo.cs
+c:\d\SolveSwitchProblem\SolveSwitchProblem\obj\Debug\netcoreapp2.0\SolveSwitchProblem.dll
+c:\d\SolveSwitchProblem\SolveSwitchProblem\obj\Debug\netcoreapp2.0\SolveSwitchProblem.pdb
